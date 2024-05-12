@@ -6,7 +6,8 @@
 
 
 
-<img src="https://tenor.com/view/bongo-cat-gif-25207601.gif" width="">
+<img src="https://tenor.com/view/bongo-cat-gif-25207601.gif">
+<img align="right" height="250" width="375" alt="" src="https://tenor.com/view/bongo-cat-gif-25207601.gif" />
 
 ### More about me :
 
