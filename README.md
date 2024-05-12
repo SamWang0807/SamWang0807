@@ -7,14 +7,17 @@
 
 
 <img src="https://tenor.com/view/bongo-cat-gif-25207601.gif">
+
 <img align="right" height="250" width="375" alt="" src="https://tenor.com/view/bongo-cat-gif-25207601.gif" />
+
+![](https://tenor.com/view/bongo-cat-gif-25207601.gif)
 
 ### More about me :
 
 - 👨🏻‍🎓 I'm a Master student in Computer Science and Engineering at [University of California, San Diego](https://cse.ucsd.edu/)
 - 🔭 Actively seeking for 2025 summer intern (SDE, ML research intern)
-- 📨 How to reach me : chw143@ucsd.edu
-- My resume
+- 📫 How to reach me : chw143@ucsd.edu
+- 📂 My resume
 
 ### Language and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
@@ -31,22 +34,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 
 
-
-
-
-
-
-<!--
-**SamWang0807/SamWang0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
