@@ -13,7 +13,7 @@
 - 👨🏻‍🎓 I'm a Master student in Computer Science and Engineering at [University of California, San Diego](https://cse.ucsd.edu/)
 - 🔭 Actively seeking for 2025 summer intern (SDE, ML research intern)
 - 📫 How to reach me : chw143@ucsd.edu
-- 📂 My resume
+- 📂 [My resume](https://drive.google.com/file/d/1wD7Wk65gyhkOn1yH3Qrw-dxqCQEjlLll/view?usp=drive_link)
 
 ### Language and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
