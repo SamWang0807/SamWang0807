@@ -11,7 +11,7 @@
 ### More about me :
 
 - 👨🏻‍🎓 I'm a Master student in Computer Science and Engineering at [University of California, San Diego](https://cse.ucsd.edu/)
-- 🔭 Actively seeking for 2025 summer intern (SDE, ML research intern)
+- 🔭 Actively seeking for 2025 summer intern (SWE, Machine Learning Engineer intern)
 - 📫 How to reach me : chw143@ucsd.edu
 - 📂 [My resume](https://drive.google.com/file/d/1lLp67FSgXDlUCDKwPpc06sItk8ojd2qi/view?usp=drive_link)
 
