@@ -7,6 +7,7 @@
 
 <img height="250" width="375" alt="" src="https://github.com/SamWang0807/SamWang0807/blob/main/resourses/bongo-cat.gif" />
 
+I am actively seeking SWE and MLE internships for the summer of 2025. I am a passionate machine learning enthusiast, a dedicated computer vision researcher, and a diligent software developer. I thrive on challenges and enjoy solving problems through collaboration with my teammates.
 
 ### More about me :
 
