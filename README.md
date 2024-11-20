@@ -14,7 +14,7 @@ I am actively seeking SWE and MLE internships for the summer of 2025. I am a pas
 - 👨🏻‍🎓 I'm a Master student in Computer Science and Engineering at [University of California, San Diego](https://cse.ucsd.edu/)
 - 🔭 Actively seeking for 2025 summer intern (SWE, Machine Learning Engineer intern)
 - 📫 How to reach me : samwang900807@gmail.com
-- 📂 [My resume](https://drive.google.com/file/d/1BRqwoRq6lN6rweMXts6ZnoDa_R50NtI1/view?usp=drive_link)
+- 📂 [My resume](https://drive.google.com/file/d/1V4dWXT2H85nsustGb34L-fE_YRs_kdB1/view?usp=sharing)
 
 ### Language and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
