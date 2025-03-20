@@ -7,12 +7,11 @@
 
 <img height="250" width="375" alt="" src="https://github.com/SamWang0807/SamWang0807/blob/main/resourses/bongo-cat.gif" />
 
-I am actively seeking SWE and MLE internships for the summer of 2025. I am a passionate machine learning enthusiast, a dedicated computer vision researcher, and a diligent software developer. I thrive on challenges and enjoy solving problems through collaboration with my teammates.
+I am a passionate machine learning enthusiast, a dedicated computer vision researcher, and a diligent software developer.
 
 ### More about me :
 
 - 👨🏻‍🎓 I'm a Master student in Computer Science and Engineering at [University of California, San Diego](https://cse.ucsd.edu/)
-- 🔭 Actively seeking for 2025 summer intern (SWE, Machine Learning Engineer intern)
 - 📫 How to reach me : samwang900807@gmail.com
 - 📂 [My resume](https://drive.google.com/file/d/1V4dWXT2H85nsustGb34L-fE_YRs_kdB1/view?usp=sharing)
 
